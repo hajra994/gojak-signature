@@ -1,0 +1,2 @@
+# gojak-signature
+assets
